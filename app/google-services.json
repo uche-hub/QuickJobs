@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "945194832133",
+    "firebase_url": "https://quick-jobs-a9544.firebaseio.com",
+    "project_id": "quick-jobs-a9544",
+    "storage_bucket": "quick-jobs-a9544.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945194832133:android:461d0ead89a4af4f18e76c",
+        "android_client_info": {
+          "package_name": "com.example.quickjob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945194832133-1cgsn0olck14tke0gm2n89gbp4mqn5si.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq-RXd1xoibPoxTbdqx51g8YfJ2nPzJh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945194832133-1cgsn0olck14tke0gm2n89gbp4mqn5si.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
